@@ -1,0 +1,112 @@
+body {
+	width:75%;
+	max-width: 1950px;
+	margin: auto; 
+	font-family: sans-serif; 
+	background-image: url(../imagens/fundooo.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+	
+}
+
+
+.logo, .logo2, .manchete, .headline {
+	margin: 0;
+	text-align: center;}
+
+.menu ul {
+	padding:10px 10px;
+	margin:2px;
+	background-color:#3bbd3ba3; 
+	list-style: none;
+	border-radius:8px;
+	
+}	
+
+.menu ul li {
+	display: inline;
+	padding: 2px 10px;
+}
+
+.menu ul li a { 
+	display:inline block;
+	color: black;
+	text-decoration: none;
+	border-bottom: 3px ;
+	
+}	
+
+.menu ul li a:hover {
+	background-color: #3300ffd6;
+	color: black;
+	border-radius:3px
+}	
+
+.principal { 
+	color: white;
+	text-align: justify;
+	background: #000000d1;
+	padding: 60px 40px;
+	border-radius: 15px;
+	line-height: 26px;
+}
+
+footer { 
+    background-color: #3bbd3ba3;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	margin: 2px;
+	padding: 1px;
+	font-size: 10px;
+	margin-bottom: 20px;
+}	
+
+.margem {
+	text-align: center;
+	color: white;
+	padding: 6px;
+	border-radius: 15px;
+	margin-top: 10px;
+	line-height: 26px;
+
+}
+
+.espaco {
+	color: white;
+	text-align: justify;
+	padding: 10px;
+	border-radius: 15px;
+	margin: 10px;
+	line-height: 26px;
+	text-indent: 1cm;
+	
+}	
+
+.borda {
+	color: grey;
+	text-align: center;
+	
+	
+}	
+
+
+.tabelaa, .links{
+	margin: 30px 0;
+	text-align: center;
+	width: 100%
+}
+
+.tabelaa table{
+	background: rgba(82, 56, 230, 0.6);
+	border-radius: 10px;
+	padding: 10px;
+	margin: 0 auto;
+}	
+
+.video {
+	margin: 0;
+	text-align: center;
+	
+	}
+	
